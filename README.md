@@ -10,10 +10,6 @@ Four characters staring into your soul from different perspectives.
 ##### Witch Witch Broom
 A spooky twist on the duck game from class.
 
--![click here]
-[https://arnellecomrie.github.io/Spooky-Season/]
-
-+[click here]
-[https://arnellecomrie.github.io/Spooky-Season/]
+[Spooky Season](https://arnellecomrie.github.io/Spooky-Season/)
 
 <img width="1172" height="275" alt="Screenshot 2026-10-27 164238" src="https://github.com/user-attachments/assets/c371d733-dc2c-41d9-a6fc-d04813fddb20" />
