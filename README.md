@@ -13,3 +13,9 @@ A spooky twist on the duck game from class.
 [Spooky Season](https://arnellecomrie.github.io/Spooky-Season/)
 
 <img width="1172" height="275" alt="Screenshot 2026-10-27 164238" src="https://github.com/user-attachments/assets/c371d733-dc2c-41d9-a6fc-d04813fddb20" />
+
+
+###### Yaadie Trivia 
+An Island themed twist on the code trivia from class
+[Yaadie Trivia](https://arnellecomrie.github.io/Yaadie-Trivia/)
+<img width="719" height="252" alt="Screenshot 2026-11-09 143934" src="https://github.com/user-attachments/assets/9fb63b78-da0d-41b8-9303-77e5e770b728" />
